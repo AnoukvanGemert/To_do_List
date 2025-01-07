@@ -1,1 +1,4 @@
-# To_do_List
+# To do list made with Vuejs. 
+
+My first application made with Vue. 
+
