@@ -11,7 +11,7 @@ My first application made with Vue.
 every item in the to-do list is saved in the localstorage.
 
 ## installation 
-To istall the application locally: 
+To install the application locally: 
 1. clone the repository: git clone https://github.com/AnoukvanGemert/To_do_List.git.
 2. navigate to the project directory: cd To_do_list.
 3. install the dependencies: npm install.
